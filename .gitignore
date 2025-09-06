@@ -5,3 +5,11 @@
 __pychache__/
 *.py[cod]
 *$py.class
+
+# Unused scripts
+/Intro
+
+# Resulting csv files
+**/*.csv
+**/*.xlsx
+
